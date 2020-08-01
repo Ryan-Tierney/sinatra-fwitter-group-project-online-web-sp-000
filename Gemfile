@@ -12,7 +12,11 @@ gem 'pry'
 gem 'bcrypt'
 gem "tux"
 gem 'rack-flash3'
+<<<<<<< HEAD
 
+=======
+gem 'sinatra-flash'
+>>>>>>> e5aa7b3788b1f47c4495344cd064ec35eb169ba3
 
 group :test do
   gem 'rspec'
